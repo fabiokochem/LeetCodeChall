@@ -6,7 +6,7 @@ Welcome to my repository for **LeetCode Challenges**! 🚀 This repo serves as a
 This repository contains solutions to problems from [LeetCode](https://leetcode.com/) that I solve every week. Each solution is well-commented and organized.
 
 ## 📂 Problems Solved
-The repository is organized as follows:
+You can find these exercises solved until now:
 - [1. Two Sum](LeetCodes/two_sum.cpp)
 - [53. Maximum Subarray](LeetCodes/max_subarray.cpp)
 
