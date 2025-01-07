@@ -5,8 +5,6 @@
 using namespace std;
 
 /*
-
-
 This code was the my first attempt to solve the problem. It is a brute force solution, which is not the best way to solve this problem.
 I was trying to think in a better solution but i prefered to submit this one to see if was correct my idea and to show one way to solve this problem.
 
