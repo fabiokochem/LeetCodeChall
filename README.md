@@ -9,6 +9,7 @@ This repository contains solutions to problems from [LeetCode](https://leetcode.
 You can find these exercises solved until now:
 - [1. Two Sum](LeetCodes/two_sum.cpp)
 - [53. Maximum Subarray](LeetCodes/max_subarray.cpp)
+- [121. Best Time to Buy and Sell Stock](LeetCodes/buy_sell_stock.cpp)
 
 ## 🛠️ How to Run the Solutions
 Each solution can be executed individually. Follow the steps below to test any solution:
