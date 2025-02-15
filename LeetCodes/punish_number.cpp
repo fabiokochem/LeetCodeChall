@@ -36,24 +36,3 @@ public:
     }
 };
 
-/*
-This solution is the best way to solve this problem. In this solution, we use mathematical insights or efficient data structures.
-The steps I built to reach this solution:
-    - Analyze the problem to identify patterns or properties that can reduce computation.
-    - Use a mathematical formula or an efficient algorithm to calculate the desired result in O(n) or better time complexity.
-    - Return the result directly without unnecessary iterations.
-
-Optimized solution with complexity O(n).
-*/
-class Solution2 {
-public:
-    int minOperations(int n) {
-        // Optimized solution using mathematical properties
-        // Example: Problem involves calculating the number of operations to make array elements equal
-        // (Replace this logic with the actual formula or optimized solution derived for the problem)
-        return n / 2 * ((n + 1) / 2); // Example formula for illustration
-    }
-};
-
-    return 0;
-}
