@@ -8,6 +8,7 @@ This repository contains solutions to problems from [LeetCode](https://leetcode.
 ## 📂 Problems Solved
 You can find these exercises solved until now:
 - [1. Two Sum](LeetCodes/two_sum.cpp)
+- [48. Rotate Image](LeetCodes/rotate_image.py)
 - [53. Maximum Subarray](LeetCodes/max_subarray.cpp)
 - [70. Climbing Stairs](LeetCodes/climbing.py)
 - [121. Best Time to Buy and Sell Stock](LeetCodes/buy_sell_stock.cpp)
