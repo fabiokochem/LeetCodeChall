@@ -15,6 +15,7 @@ You can find these exercises solved until now:
 - [217. Contains Duplicate](LeetCodes/contains_duplicate.cpp)
 - [1790. Check if One String Swap Can Make Strings Equal](LeetCodes/strings_equal.py)
 - [1800. Maximum Ascending Subarray Sum](LeetCodes/max_ascending.py)
+- [1980. Find Unique Binary String](LeetCodes/find_unique.py)
 - [2698. Find the Punishment Number of an Integer](LeetCodes/punish_number.cpp)
 - [3066. Minimum Operations to Exceed Threshold Value II](LeetCodes/exceed_threshold.py)
 
