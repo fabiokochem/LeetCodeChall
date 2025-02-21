@@ -13,6 +13,7 @@ You can find these exercises solved until now:
 - [70. Climbing Stairs](LeetCodes/climbing.py)
 - [121. Best Time to Buy and Sell Stock](LeetCodes/buy_sell_stock.cpp)
 - [217. Contains Duplicate](LeetCodes/contains_duplicate.cpp)
+- [1261. Find Elements in a Contaminated Binary Tree](LeetCodes/contamined_tree.py)
 - [1790. Check if One String Swap Can Make Strings Equal](LeetCodes/strings_equal.py)
 - [1800. Maximum Ascending Subarray Sum](LeetCodes/max_ascending.py)
 - [1980. Find Unique Binary String](LeetCodes/find_unique.py)
