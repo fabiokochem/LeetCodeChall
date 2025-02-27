@@ -8,11 +8,14 @@ This repository contains solutions to problems from [LeetCode](https://leetcode.
 ## 📂 Problems Solved
 You can find these exercises solved until now:
 - [1. Two Sum](LeetCodes/two_sum.cpp)
+- [26. Remove Duplicates from Sorted Array](LeetCodes/remove_dupli.cpp)
 - [48. Rotate Image](LeetCodes/rotate_image.py)
 - [53. Maximum Subarray](LeetCodes/max_subarray.cpp)
 - [70. Climbing Stairs](LeetCodes/climbing.py)
 - [121. Best Time to Buy and Sell Stock](LeetCodes/buy_sell_stock.cpp)
+- [169. Majority Element](LeetCodes/majority_element.cpp)
 - [217. Contains Duplicate](LeetCodes/contains_duplicate.cpp)
+- [283. Move Zeroes](LeetCodes/move_zeroes.cpp)
 - [1261. Find Elements in a Contaminated Binary Tree](LeetCodes/contamined_tree.py)
 - [1790. Check if One String Swap Can Make Strings Equal](LeetCodes/strings_equal.py)
 - [1800. Maximum Ascending Subarray Sum](LeetCodes/max_ascending.py)
