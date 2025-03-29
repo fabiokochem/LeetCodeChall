@@ -9,6 +9,7 @@ This repository contains solutions to problems from [LeetCode](https://leetcode.
 You can find these exercises solved until now:
 - [1. Two Sum](LeetCodes/two_sum.cpp)
 - [26. Remove Duplicates from Sorted Array](LeetCodes/remove_dupli.cpp)
+- [27. Remove Element](LeetCodes/remove_elements.cpp)
 - [48. Rotate Image](LeetCodes/rotate_image.py)
 - [53. Maximum Subarray](LeetCodes/max_subarray.cpp)
 - [70. Climbing Stairs](LeetCodes/climbing.py)
