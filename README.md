@@ -14,6 +14,7 @@ You can find these exercises solved until now:
 - [53. Maximum Subarray](LeetCodes/max_subarray.cpp)
 - [70. Climbing Stairs](LeetCodes/climbing.py)
 - [121. Best Time to Buy and Sell Stock](LeetCodes/buy_sell_stock.cpp)
+- [125. Valid Palindrome](LeetCodes/palindrome.cpp)
 - [169. Majority Element](LeetCodes/majority_element.cpp)
 - [189. Rotate Array](LeetCodes/rotate_array.cpp)
 - [217. Contains Duplicate](LeetCodes/contains_duplicate.cpp)
