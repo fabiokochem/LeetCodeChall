@@ -19,6 +19,7 @@ You can find these exercises solved until now:
 - [125. Valid Palindrome](LeetCodes/palindrome.cpp)
 - [169. Majority Element](LeetCodes/majority_element.cpp)
 - [189. Rotate Array](LeetCodes/rotate_array.cpp)
+- [206. Reverse Linked List](LeetCodes/reverse_list.cpp)
 - [217. Contains Duplicate](LeetCodes/contains_duplicate.cpp)
 - [283. Move Zeroes](LeetCodes/move_zeroes.cpp)
 - [344. Reverse String](LeetCodes/reverse_string.cpp)
