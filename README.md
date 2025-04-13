@@ -8,6 +8,7 @@ This repository contains solutions to problems from [LeetCode](https://leetcode.
 ## 📂 Problems Solved
 You can find these exercises solved until now:
 - [1. Two Sum](LeetCodes/two_sum.cpp)
+- [2. Add Two Numbers](LeetCodes/add_numbers.cpp)
 - [20. Valid Parentheses](LeetCodes/valid_paren.cpp)
 - [26. Remove Duplicates from Sorted Array](LeetCodes/remove_dupli.cpp)
 - [27. Remove Element](LeetCodes/remove_element.cpp)
