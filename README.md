@@ -52,27 +52,6 @@ Each solution can be executed individually. Follow the steps below to test any s
    g++ problem_name.cpp -o problem_name
    ```
 
-## 📚 Topics Covered
-The problems in this repository cover a variety of topics, including but not limited to:
-
-- Arrays
-- Strings
-- Linked Lists
-- Trees
-- Dynamic Programming
-- Backtracking
-- Graphs
-- Sorting and Searching
-- Math
-
-## 🌟 Why LeetCode?
-LeetCode is a fantastic platform for honing coding skills, preparing for technical interviews, and exploring new problem-solving techniques. By maintaining this repository, I aim to:
-
-- Track my progress over time.
-- Improve my coding and problem-solving skills.
-- Build a strong foundation in algorithms and data structures.
-- Stay consistent with daily practice.
-
 ## 🤝 Contributions
 While this repository is primarily for my personal learning, I welcome feedback or alternative solutions! If you'd like to contribute or suggest improvements:
 
