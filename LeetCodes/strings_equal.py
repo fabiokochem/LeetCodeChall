@@ -24,7 +24,7 @@ class Solution(object):
             if s1[i] != s2[i]:
                 if p1 == -1 : p1 = i
                 elif p2 == -1 : p2 = i
-                counter++
+                counter += 1
         
         if counter == 2 and s1[p1] == s2[p2] and s1[p2] == s2[p1]: return True
         elif counter == 0: return True

@@ -1,3 +1,8 @@
+#include <string>
+#include <stack>
+
+using namespace std;
+
 class Solution {
 public:
     string removeDuplicates2(string s) {

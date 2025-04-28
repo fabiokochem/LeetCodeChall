@@ -5,6 +5,10 @@ To solve this, we can use the two-pointer technique, with pointer i at the begin
 
 Complexity: O(n)
 */
+#include <vector>
+
+using namespace std;
+
 class Solution {
 public:
     void reverseString(vector<char>& s) {

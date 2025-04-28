@@ -3,6 +3,11 @@ Para esse problema, sabendo a fórmula do Triângulo de Pascal se tornava muito 
 
 Complexidade: O(rowIndex);
 */
+
+#include <vector>
+
+using namespace std;
+
 class Solution {
 public:
     vector<int> getRow(int rowIndex) {

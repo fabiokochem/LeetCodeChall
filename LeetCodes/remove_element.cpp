@@ -13,6 +13,10 @@ Errei querendo usar um for, porque cada vez que utilizo nums.erase(), o tamanho 
 
 A complexidade continuou em O(n).
 */
+#include <vector>
+
+using namespace std;
+
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {

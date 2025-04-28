@@ -9,6 +9,11 @@ If not -> analyze if the sum is bigger than target, which means we need to decre
 Time Complexity: O(n)
 Space Complexity: O(1)
 */
+
+#include <vector>
+
+using namespace std;
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& numbers, int target) {

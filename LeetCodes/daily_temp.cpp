@@ -1,6 +1,11 @@
+#include <vector>
+#include <algorithm>
+#include <stack>
+using namespace std;
+
 class Solution {
 public:
-    vector<int> dailyTemperatures(vector<int>& temperatures) {
+    vector<int> dailyTemperatures(vector<int>& temp) {
         stack<pair<int,int>> st;
         int n = size(temp);
         vector<int> arr(n, 0);

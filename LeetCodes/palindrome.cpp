@@ -6,6 +6,10 @@ satisfazer a condição de um palíndromo, ela precisaria necessariamente ser es
 
 A complexidade será O(n).
 */
+#include <string>
+
+using namespace std;
+
 class Solution {
 public:
     bool isPalindrome(string s) {

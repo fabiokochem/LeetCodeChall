@@ -8,6 +8,10 @@ There is a specific case in which all positions are equal to 9. In this situatio
 
 Complexity: O(n)
 */
+#include <vector>
+
+using namespace std;
+
 class Solution {
 public:
     vector<int> plusOne(vector<int>& digits) {
