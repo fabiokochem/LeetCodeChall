@@ -36,12 +36,15 @@ You can find these exercises solved until now:
 - [232. Implement Queue using Stacks](LeetCodes/queue_stacks.cpp)
 - [283. Move Zeroes](LeetCodes/move_zeroes.cpp)
 - [344. Reverse String](LeetCodes/reverse_string.cpp)
+- [347. Top K Frequent Elements](LeetCodes/topk_frequent.cpp)
 - [643. Maximum Average Subarray I](LeetCodes/max_avg_subarrayI.cpp)
 - [680. Valid Palindrome II](LeetCodes/valid_palindromeII.cpp)
+- [703. Kth Largest Element in a Stream](LeetCodes/kth_stream.cpp)
 - [704. Binary Search](LeetCodes/binary_search.cpp)
 - [709. To Lower Case](LeetCodes/tolower.cpp)
 - [739. Daily Temperatures](LeetCodes/daily_temp.cpp)
 - [933. Number of Recent Calls](LeetCodes/recent_calls.cpp)
+- [1046. Last Stone Weight](LeetCodes/last_stone.cpp)
 - [1047. Remove All Adjacent Duplicates In String](LeetCodes/rem_adj_duplicates.cpp)
 - [1261. Find Elements in a Contaminated Binary Tree](LeetCodes/contamined_tree.py)
 - [1790. Check if One String Swap Can Make Strings Equal](LeetCodes/strings_equal.py)
@@ -50,6 +53,7 @@ You can find these exercises solved until now:
 - [2145. Count the Hidden Sequences](LeetCodes/hidden_seq.cpp)
 - [2444. Count Subarrays With Fixed Bounds](LeetCodes/count_fixed_bounds.cpp)
 - [2698. Find the Punishment Number of an Integer](LeetCodes/punish_number.cpp)
+- [2958. Length of Longest Subarray With at Most K Frequency](LeetCodes/subarray_mostk.cpp)
 - [3066. Minimum Operations to Exceed Threshold Value II](LeetCodes/exceed_threshold.py)
 
 ## 🛠️ How to Run the Solutions
